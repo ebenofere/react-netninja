@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "single project for admin module (session) - a standalone project",
+            "author": "Kyle Simpson",
+            "id": 1
+        },
+        {
+            "title": "Opening Party!",
+            "body": "happening live at the Elegushi beach in Lekki, an exquisite Island in Lagos.",
+            "author": "Brad Traversy",
+            "id": 2
+        }
+    ]
+}
