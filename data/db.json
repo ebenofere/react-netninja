@@ -1,16 +1,190 @@
 {
-    "blogs": [
-        {
-            "title": "My First Blog",
-            "body": "I am mama Africa, mother of humanity. My soul flows in all people in all places. I am Queen of Shebah the essence of beauty. You see me in people, people of all races. I am mama Africa yes, I'm the Ashanti Gold, look at my jet black soul, I am forever young. I am ancient, dark, golden glorious to behold. Akwaba my children, sing me the Ebone song.",
-            "author": "Kyle Simpson",
-            "id": 1
-        },
-        {
-            "title": "Opening Party!",
-            "body": "I am mama Africa, I gave birth to Mozambique. See all my plains spread from ducor to Cairo. Green my fertile soil, dark my soul so unique. I am mama Africa, roots of mount Kilimanjaro. I am mama Africa, adorned with wealth infinite. Watch my strides, I represent perpetual grace. Hear me my children, cease to fight and unite. Come all ye spirits of Uhuru ,all I want is peace.",
-            "author": "Brad Traversy",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "I am mama Africa, mother of humanity. My soul flows in all people in all places. I am Queen of Shebah the essence of beauty. You see me in people, people of all races. I am mama Africa yes, I'm the Ashanti Gold, look at my jet black soul, I am forever young. I am ancient, dark, golden glorious to behold. Akwaba my children, sing me the Ebone song.",
+      "author": "Kyle Simpson",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "I am mama Africa, I gave birth to Mozambique. See all my plains spread from ducor to Cairo. Green my fertile soil, dark my soul so unique. I am mama Africa, roots of mount Kilimanjaro. I am mama Africa, adorned with wealth infinite. Watch my strides, I represent perpetual grace. Hear me my children, cease to fight and unite. Come all ye spirits of Uhuru ,all I want is peace.",
+      "author": "Brad Traversy",
+      "id": 2
+    },
+    {
+      "title": "Eben Ofere",
+      "body": "I love Jesus",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Eben",
+      "body": "I love Jessu",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "Starboy",
+      "body": "Henry Ekwonwa is a cool guy.",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "Africa poem",
+      "body": "The motherland",
+      "author": "yoshi",
+      "id": 6
+    },
+    {
+      "title": "aas",
+      "body": "dvadv",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "aas",
+      "body": "dvadvavda",
+      "author": "mario",
+      "id": 8
+    },
+    {
+      "title": "aas",
+      "body": "dvadvavda",
+      "author": "mario",
+      "id": 9
+    },
+    {
+      "title": "aas",
+      "body": "dvadvavda",
+      "author": "mario",
+      "id": 10
+    },
+    {
+      "title": "aasgwegwegewgwegweg",
+      "body": "dvadvavdadsbgwegwegwe",
+      "author": "mario",
+      "id": 11
+    },
+    {
+      "title": "aasgwegwegewgwegweg",
+      "body": "dvadvavdadsbgwegwegwe",
+      "author": "mario",
+      "id": 12
+    },
+    {
+      "title": "aasgwegwegewgwegweg",
+      "body": "dvadvavdadsbgwegwegwe",
+      "author": "mario",
+      "id": 13
+    },
+    {
+      "title": "aasgwegwegewgwegweg",
+      "body": "dvadvavdadsbgwegwegwe",
+      "author": "mario",
+      "id": 14
+    },
+    {
+      "title": "aasgwegwegewgwegweg",
+      "body": "dvadvavdadsbgwegwegwe",
+      "author": "mario",
+      "id": 15
+    },
+    {
+      "title": "aasgwegwegewgwegweg",
+      "body": "dvadvavdadsbgwegwegwe",
+      "author": "mario",
+      "id": 16
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 17
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 18
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 19
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 20
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 21
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 22
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 23
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 24
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 25
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 26
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 27
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 28
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 29
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 30
+    },
+    {
+      "title": "bbebebwreb",
+      "body": "wrbrwbrwbrwb",
+      "author": "mario",
+      "id": 31
+    }
+  ]
 }
